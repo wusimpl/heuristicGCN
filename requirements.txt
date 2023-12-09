@@ -1,1 +1,0 @@
-conda install ordered_set numpy torch_scatter scikit_learn
