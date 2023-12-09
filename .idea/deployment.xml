@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="北京181 (6)" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="wusimpl@ubuntutu:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wusimpl/work/compGCN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="北京111">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/compGCN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="北京119-2080Ti (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/compGCN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="北京181 (6)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/compGCN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
